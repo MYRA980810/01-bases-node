@@ -1,0 +1,15 @@
+{
+  "name": "01-bases-node",
+  "version": "1.0.0",
+  "description": "Este programa crea las tablas de nuktiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Marquez",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.7.2"
+  }
+}
